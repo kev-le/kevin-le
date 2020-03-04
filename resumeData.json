@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Kevin Le",
+    "occupation":"Software Engineer",
+    "description":"with a passion to develop products that have real-world impact to customers. My specialty is building web applications that are modern, intuitive, and above all, solve real human problems",
+    "image":"profilepic.jpg",
+    "bio":"I'm an energetic, friendly Software Engineer with a passion for developing products that have real-world impact. I am most experienced in developing web applications, using React & Redux and Flask/NodeJS. I am very interested in recent developments to Computer Science such as AI/Machine Learning and computational vision. I am excited to see how these revolutionary technologies will impact the world in the next decade. If we share any common interests, or if you are interested in contacting me, please feel free to email me below or message me on LinkedIn to chat!",
+    "contactmessage":"",
+    "email": "kevin_le@sfu.ca",
+    "phone": "",
+    "address":{
+      "city":"Vancouver"
+    },
+    "website": "http://www.kevin-le.me",
+    "resumedownload":"LeKevin_Resume2020.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kev-le/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/kev-le",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am well experienced in Web Development and actively learning new developments for the latest web technologies, such as React Hooks. I am always looking for new ways to broaden my development skills and put them to practice.",
+    "education":[
+      {
+        "school":"Simon Fraser University",
+        "degree":"Bachelor of Science, Major in Computer Science",
+        "graduated":"Jan 2017 - Dec 2019",
+        "description": ["Graduated with Honours, Achieved Dean's Honour Roll in 2018 & 2019", "Relevant Coursework: Software Development Methods, Computational Data Science, Web-based Information Systems, Artificial Intelligence, Computational Vision, Databases I & II, UI & UX Design, Computer Graphics"]
+      },
+      {
+        "school":"British Columbia Institute of Technology",
+        "degree":"Diploma of Computer Systems Technology (Web and Mobile Option)",
+        "graduated":"Jan 2014 - Dec 2017",
+        "description": ["Graduated with Distinction", "A diploma program that combines computer systems theory with hands-on experience in software development", "Relevant Coursework: Object Oriented Programming I & II, Data Structures and Algorithms, iOS & Android Development, Web App Development, Server-Side Web Scripting, Computer Architecture"]
+      }
+    ],
+    "work":[
+      {
+        "company":"CA Technologies",
+        "title":"Software Engineer Intern",
+        "years":"May 2018 – Aug 2018",
+        "tech": ["React", "Redux", "TeamCity", "Javascript", "MySQL"],
+        "description": ["Worked extensively with React & Redux to develop features for the front-end team",
+                        "Automated the workflow processes for all the front-end Git PRs by developing a TeamCity script which resulted in improved team productivity",
+                        "Developed a feature flagging framework that is used for all the front-end projects",
+                        "Contributed to daily agile scrum meetings, code reviews, technical documentation, and sprint planning"]
+      },
+      {
+        "company":"Ayogo Health",
+        "title":"Software Developer Intern",
+        "years":"Sept 2017 – Dec 2017",
+        "tech": ["AngularJS", "Ruby on Rails", "Javascript", "MySQL"],
+        "description":["Collaborated with the product, UX, QA, and development teams to design and develop a feature complete health app in AngularJS",
+                       "Developed reusable front-end components for AngularJS to be used in future health apps",
+                       "Designed data models and integrated them with RESTful JSON APIs for the Rails backend server",
+                       "Unit tested and versioned front-end components on npm"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"React & Redux",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL/PostgreSQL",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Flask",
+        "level":"80%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cradle",
+        "category":"A React health app used to keep track of health readings from maternal mothers in Uganda to prevent maternal death. Currently in the testing phase to be fully deployed in Uganda.",
+        "image":"cradle-screen.jpg",
+        "url":"http://cradle-app.herokuapp.com/login",
+        "tech": ["React", "Redux", "Flask", "Javascript", "MySQL"],
+        "git": "https://github.com/kev-le/Cradle-VSA"
+      },
+      {
+        "title":"Animal-dex",
+        "category":"A web app that hosts information on over 1000 animals. Allows users to keep track of animals they have spotted outdoors.",
+        "image":"animal-dex-screen.jpg",
+        "url":"http://animal-dex.herokuapp.com/",
+        "tech": ["Django", "Python", "Javascript", "PostgreSQL", "Heroku"],
+        "git": "https://github.com/kev-le/Animal-dex"
+      },
+      {
+        "title":"Mystudygroup",
+        "category":"Platform for students who want to find a study group nearby by utilizing Google maps API. Study groups features real-time chat, file-hosting, and location sharing.",
+        "image":"mystudygroup-screen.jpg",
+        "url":"https://mystudygroup.herokuapp.com/",
+        "tech": ["Ruby on Rails", "Javascript", "Google Maps API", "PostgreSQL", "Heroku"],
+        "git": "https://github.com/kev-le/mystudygroup"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A portfolio website built using React",
+        "image":"website-screen.jpg",
+        "url":"http://www.kevin-le.me",
+        "tech": ["React", "Javascript"],
+        "git": "#"
+      }
+    ]
+  }
+}
