@@ -115,7 +115,7 @@
     "projects": [
       {
         "title":"Cradle",
-        "category":"A React health app used to keep track of health readings from maternal mothers in Uganda to prevent maternal death. Currently in the testing phase to be fully deployed in Uganda.",
+        "category":"A React app used to keep track of health readings for maternal mothers in Uganda to prevent maternal death. Currently in the testing phase to be fully deployed in Uganda.",
         "image":"cradle-screen.jpg",
         "url":"http://cradle-app.herokuapp.com/login",
         "tech": ["React", "Redux", "Flask", "Javascript", "MySQL"],
@@ -143,7 +143,7 @@
         "image":"website-screen.jpg",
         "url":"http://www.kevin-le.me",
         "tech": ["React", "Javascript"],
-        "git": "#"
+        "git": "https://github.com/kev-le/kevin-le"
       }
     ]
   }
