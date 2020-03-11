@@ -123,10 +123,10 @@
       },
       {
         "title":"Animal-dex",
-        "category":"A web app that hosts information on over 1000 animals. Allows users to keep track of animals they have spotted outdoors.",
+        "category":"A Django web app that hosts information on over 1000 animals. Allows users to keep track of animals they have spotted outdoors.",
         "image":"animal-dex-screen.jpg",
         "url":"http://animal-dex.herokuapp.com/",
-        "tech": ["Django", "Python", "Javascript", "PostgreSQL", "Heroku"],
+        "tech": ["Django", "Python", "Javascript", "PostgreSQL", "Docker"],
         "git": "https://github.com/kev-le/Animal-dex"
       },
       {
