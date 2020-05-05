@@ -114,8 +114,16 @@
   "portfolio":{
     "projects": [
       {
+        "title":"COVID-19 Tracker",
+        "category":"A React web app used to track stats of the COVID-19 virus",
+        "image":"covid19-screen.jpg",
+        "url":"https://covid19-stats-track.herokuapp.com/",
+        "tech": ["React", "Redux", "Javascript"],
+        "git": "https://github.com/kev-le/covid-19-tracker"
+      },
+      {
         "title":"Cradle",
-        "category":"A React app used to keep track of health readings for maternal mothers in Uganda to prevent maternal death. Currently in the testing phase to be fully deployed in Uganda.",
+        "category":"A React web app used to keep track of health readings for maternal mothers in Uganda to prevent maternal death. Currently in the testing phase to be fully deployed in Uganda.",
         "image":"cradle-screen.jpg",
         "url":"http://cradle-app.herokuapp.com/login",
         "tech": ["React", "Redux", "Flask", "Javascript", "MySQL"],
