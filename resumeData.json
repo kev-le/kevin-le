@@ -117,7 +117,7 @@
         "title":"COVID-19 Tracker",
         "category":"A React web app used to track stats of the COVID-19 virus",
         "image":"covid19-screen.jpg",
-        "url":"https://covid19-stats-track.herokuapp.com/",
+        "url":"https://kev-le.github.io/covid-19-tracker/",
         "tech": ["React", "Redux", "Javascript"],
         "git": "https://github.com/kev-le/covid-19-tracker"
       },
