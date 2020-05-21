@@ -33,13 +33,13 @@
         "school":"Simon Fraser University",
         "degree":"Bachelor of Science, Major in Computer Science",
         "graduated":"Jan 2017 - Jun 2020",
-        "description": ["Graduated with Honours, Achieved Dean's Honour Roll in 2018 & 2019", "Relevant Coursework: Software Development Methods, Computational Data Science, Web-based Information Systems, Artificial Intelligence, Computational Vision, Databases I & II, UI & UX Design, Computer Graphics, Networking, Cybersecurity"]
+        "description": ["Graduated with Honours, Achieved Dean's Honour Roll in 2018 & 2019", "Relevant Coursework: • Software Development Methods • Computational Data Science • Web-based Information Systems • Artificial Intelligence • Computational Vision • Databases I & II • UI & UX Design • Computer Graphics • Networking • Cybersecurity"]
       },
       {
         "school":"British Columbia Institute of Technology",
         "degree":"Diploma of Computer Systems Technology (Web and Mobile Option)",
         "graduated":"Jan 2014 - Dec 2016",
-        "description": ["Graduated with Distinction", "A diploma program that combines computer systems theory with hands-on experience in software development", "Relevant Coursework: Object Oriented Programming I & II, Data Structures and Algorithms, iOS & Android Development, Web App Development, Server-Side Web Scripting, Computer Architecture"]
+        "description": ["Graduated with Distinction", "A diploma program that combines computer systems theory with hands-on experience in software development", "Relevant Coursework: • Object Oriented Programming I & II • Data Structures and Algorithms • iOS & Android Development • Web App Development • Server-Side Web Scripting • Computer Architecture"]
       }
     ],
     "work":[
